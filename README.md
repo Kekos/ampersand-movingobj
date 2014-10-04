@@ -1,13 +1,13 @@
-= ampersand-movingobj
+# ampersand-movingobj
 
 Browser module for extending ampersand-views to movable objects by mouse or touch.
 
-== Installing
+## Installing
 
 ```
 npm install ampersand-movingobj
 ```
 
-== License
+## License
 
 MIT
