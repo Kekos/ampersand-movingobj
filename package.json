@@ -8,6 +8,13 @@
   },
   "author": "Christoffer Lindahl",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kekos/ampersand-movingobj/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kekos/ampersand-movingobj.git"
+  },
   "dependencies": {
     "ampersand-state": "^4.3.11",
     "ampersand-view": "^7.1.4",
