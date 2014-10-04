@@ -1,0 +1,18 @@
+{
+  "name": "ampersand-movingobj",
+  "version": "1.0.0",
+  "description": "Module for extending ampersand-views to movable objects by mouse or touch.",
+  "main": "ampersand-movingobj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christoffer Lindahl",
+  "license": "MIT",
+  "dependencies": {
+    "ampersand-state": "^4.3.11",
+    "ampersand-view": "^7.1.4",
+    "bind-transforms": "^1.2.1",
+    "dime": "^3.0.0",
+    "offset": "0.0.1"
+  }
+}
